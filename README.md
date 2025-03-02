@@ -12,10 +12,6 @@ A simple and lightweight Node.js project designed to redirect users to specific 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
